@@ -78,11 +78,6 @@
     "Thứ Hai": {
       "Tiết 1": {"subject": "MT", "teacher": "Thân"},
       "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
-      "Tiết 3": {"subject": "Toán", "teacher":
-      "8c": {
-    "Thứ Hai": {
-      "Tiết 1": {"subject": "MT", "teacher": "Thân"},
-      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
       "Tiết 3": {"subject": "Toán", "teacher": "Thanh"},
       "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
       "Tiết 5": {"subject": "LS-ĐL", "teacher": "H.Vân"}
@@ -114,9 +109,9 @@
       "Tiết 3": {"subject": "Toán", "teacher": "Thanh"},
       "Tiết 4": {"subject": "HĐTN", "teacher": "Lâm"},
       "Tiết 5": {"subject": "SHL – HĐTN", "teacher": "Lâm"}
-    }
-  },
-  "9a": {
+     }
+    },
+    "9a": {
     "Thứ Hai": {
       "Tiết 1": {"subject": "CC-HĐTN", "teacher": "H.vân"},
       "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
