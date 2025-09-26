@@ -1,0 +1,193 @@
+{
+  "last_updated": "26/09/2025 18:53",
+  "8a": {
+    "Thứ Hai": {
+      "Tiết 1": {"subject": "CC- HĐTN", "teacher": "Thân"},
+      "Tiết 2": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 3": {"subject": "CD", "teacher": "Nam"},
+      "Tiết 4": {"subject": "HĐTN", "teacher": "Thân"},
+      "Tiết 5": {"subject": "MT", "teacher": "Thân"}
+    },
+    "Thứ Ba": {
+      "Tiết 1": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 3": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 4": {"subject": "KHTN", "teacher": "Thảo"},
+      "Tiết 5": {"subject": "CN", "teacher": "Thảo"}
+    },
+    "Thứ Tư": {
+      "Tiết 1": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 2": {"subject": "CN", "teacher": "Thảo"},
+      "Tiết 3": {"subject": "LS-ĐL", "teacher": "H Vân"},
+      "Tiết 4": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 5": {"subject": "Toán", "teacher": "Thanh"}
+    },
+    "Thứ Năm": {
+      "Tiết 1": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 2": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 3": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 4": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 5": {"subject": "Anh", "teacher": "Ngọc"}
+    },
+    "Thứ Sáu": {
+      "Tiết 1": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 2": {"subject": "KHTN", "teacher": "T.vân"},
+      "Tiết 3": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "SHL-HĐTN", "teacher": "Thân"}
+    }
+  },
+  "8b": {
+    "Thứ Hai": {
+      "Tiết 1": {"subject": "CC-HĐTN", "teacher": "T.vân"},
+      "Tiết 2": {"subject": "HĐTN", "teacher": "T.vân"},
+      "Tiết 3": {"subject": "LS-ĐL", "teacher": "H Vân"},
+      "Tiết 4": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 5": {"subject": "CC- HĐTN", "teacher": "Lâm"}
+    },
+    "Thứ Ba": {
+      "Tiết 1": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 2": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 3": {"subject": "KHTN", "teacher": "Thảo"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "Anh", "teacher": "Ngọc"}
+    },
+    "Thứ Tư": {
+      "Tiết 1": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 2": {"subject": "CN", "teacher": "Thảo"},
+      "Tiết 3": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 4": {"subject": "CD", "teacher": "Nam"},
+      "Tiết 5": {"subject": "LS-ĐL", "teacher": "H Vân"}
+    },
+    "Thứ Năm": {
+      "Tiết 1": {"subject": "MT", "teacher": "Thân"},
+      "Tiết 2": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 3": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 4": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 5": {"subject": "Văn", "teacher": "Tài"}
+    },
+    "Thứ Sáu": {
+      "Tiết 1": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 2": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 3": {"subject": "KHTN", "teacher": "T.vân"},
+      "Tiết 4": {"subject": "CN", "teacher": "Thảo"},
+      "Tiết 5": {"subject": "SHL-HĐTN", "teacher": "T.vân"}
+    }
+  },
+  "8c": {
+    "Thứ Hai": {
+      "Tiết 1": {"subject": "MT", "teacher": "Thân"},
+      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 3": {"subject": "Toán", "teacher":
+      "8c": {
+    "Thứ Hai": {
+      "Tiết 1": {"subject": "MT", "teacher": "Thân"},
+      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 3": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "LS-ĐL", "teacher": "H.Vân"}
+    },
+    "Thứ Ba": {
+      "Tiết 1": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 2": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 3": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 4": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 5": {"subject": "Văn", "teacher": "Tài"}
+    },
+    "Thứ Tư": {
+      "Tiết 1": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 2": {"subject": "CN", "teacher": "Th.vân"},
+      "Tiết 3": {"subject": "CD", "teacher": "Nam"},
+      "Tiết 4": {"subject": "KHTN", "teacher": "Thảo"},
+      "Tiết 5": {"subject": "KHTN", "teacher": "Thảo"}
+    },
+    "Thứ Năm": {
+      "Tiết 1": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 3": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "CN", "teacher": "Th.vân"}
+    },
+    "Thứ Sáu": {
+      "Tiết 1": {"subject": "KHTN", "teacher": "T.vân"},
+      "Tiết 2": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 3": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 4": {"subject": "HĐTN", "teacher": "Lâm"},
+      "Tiết 5": {"subject": "SHL – HĐTN", "teacher": "Lâm"}
+    }
+  },
+  "9a": {
+    "Thứ Hai": {
+      "Tiết 1": {"subject": "CC-HĐTN", "teacher": "H.vân"},
+      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 3": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "CC-HĐTN", "teacher": "Huyền"}
+    },
+    "Thứ Ba": {
+      "Tiết 1": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 2": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 3": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "KHTN", "teacher": "T.vân"}
+    },
+    "Thứ Tư": {
+      "Tiết 1": {"subject": "CD", "teacher": "Nam"},
+      "Tiết 2": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 3": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "Văn", "teacher": "Tài"}
+    },
+    "Thứ Năm": {
+      "Tiết 1": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 2": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 3": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 4": {"subject": "CN", "teacher": "Thân"},
+      "Tiết 5": {"subject": "Toán", "teacher": "Thanh"}
+    },
+    "Thứ Sáu": {
+      "Tiết 1": {"subject": "CN", "teacher": "Thân"},
+      "Tiết 2": {"subject": "MT", "teacher": "Thân"},
+      "Tiết 3": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 4": {"subject": "HĐTN", "teacher": "H. vân"},
+      "Tiết 5": {"subject": "SHL-HĐTN", "teacher": "H.vân"}
+    }
+  },
+  "9b": {
+    "Thứ Hai": {
+      "Tiết 1": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 2": {"subject": "KHTN", "teacher": "Huyền"},
+      "Tiết 3": {"subject": "LS-ĐL", "teacher": "H.Vân"},
+      "Tiết 4": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 5": {"subject": "KHTN", "teacher": "Huyền"}
+    },
+    "Thứ Ba": {
+      "Tiết 1": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 3": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 4": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 5": {"subject": "Toán", "teacher": "Thanh"}
+    },
+    "Thứ Tư": {
+      "Tiết 1": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 2": {"subject": "Văn", "teacher": "Tài"},
+      "Tiết 3": {"subject": "CD", "teacher": "Nam"},
+      "Tiết 4": {"subject": "KHTN", "teacher": "Thảo"},
+      "Tiết 5": {"subject": "Anh", "teacher": "Ngọc"}
+    },
+    "Thứ Năm": {
+      "Tiết 1": {"subject": "LS-ĐL", "teacher": "Lâm"},
+      "Tiết 2": {"subject": "MT", "teacher": "Thân"},
+      "Tiết 3": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 4": {"subject": "Anh", "teacher": "Ngọc"},
+      "Tiết 5": {"subject": "CN", "teacher": "Thân"}
+    },
+    "Thứ Sáu": {
+      "Tiết 1": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 2": {"subject": "Toán", "teacher": "Thanh"},
+      "Tiết 3": {"subject": "CN", "teacher": "Thân"},
+      "Tiết 4": {"subject": "HĐTN", "teacher": "Huyền"},
+      "Tiết 5": {"subject": "SHL-HĐTN", "teacher": "Huyền"}
+    }
+  }
+}
